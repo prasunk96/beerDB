@@ -1,7 +1,7 @@
 {
   "name": "beercraft",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://myusername.github.io/pkbeerdb",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
